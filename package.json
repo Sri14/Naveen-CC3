@@ -1,0 +1,14 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "Naveen Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Sri",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
