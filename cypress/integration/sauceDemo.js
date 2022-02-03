@@ -4,7 +4,7 @@ describe('Suacedemo page challenge', () => {
 
     it('Log in and add the highes item to basket and check', () => {
 
-        let price = []
+        let price;
         let productName;
         let highest;
 
